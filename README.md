@@ -1,9 +1,7 @@
 # Desafio-NotebookLM
 
 # 🎯 [Tópicos de Lógica]
-      O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a 
-      cinco fontes abertas em texto ou PDF sobre [insira o tema do seu caderno aqui].
-
+     
 [![NotebookLM](https://img.shields.io/badge/Acessar-NotebookLM-blue?style=for-the-badge&logo=google)](https://notebooklm.google.com/notebook/f989fe47-443e-4fa2-86cc-42b839a5ad17)
 
 * [Este caderno introduz os fundamentos filosóficos da lógica e da matemática, focando no embate histórico e atual entre o classicismo e o intuicionismo (ou construtivismo)]
